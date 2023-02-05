@@ -22,7 +22,7 @@ let package = Package(
             name: "JKVValue",
             dependencies: [],
             path: "JKVValue",
-            publicHeadersPath: "."
+            publicHeadersPath: "Public"
         ),
         .testTarget(
             name: "JKVValueTests",
